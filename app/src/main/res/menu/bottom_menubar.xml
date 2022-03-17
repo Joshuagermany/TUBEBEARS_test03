@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu1_home"
+        android:enabled="true"
+        android:icon="@drawable/menu1"
+        android:title="item1"/>
+
+    <item
+        android:id="@+id/menu2_home"
+        android:enabled="true"
+        android:icon="@drawable/menu2"
+        android:title="item2"/>
+
+    <item
+        android:id="@+id/menu3_home"
+        android:enabled="true"
+        android:icon="@drawable/menu3"
+        android:title="item3"/>
+
+    <item
+        android:id="@+id/menu4_home"
+        android:enabled="true"
+        android:icon="@drawable/menu4"
+        android:title="item4"/>
+
+    <item
+        android:id="@+id/menu5_home"
+        android:enabled="true"
+        android:icon="@drawable/menu5"
+        android:title="item5"/>
+
+</menu>
